@@ -136,8 +136,8 @@ By utilizing this configuration format, the tool provides a **highly modular and
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/BlackRaven18/java-design-patterns-generator.git  
-   cd java-design-patterns-generator  
+   git clone https://github.com/BlackRaven18/design-pattern-configurator.git  
+   cd design-pattern-configurator 
    ```  
 
 2. **Install dependencies**  
